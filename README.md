@@ -3,4 +3,4 @@
 
 ### Contributions
 
-![snake gif](https://github.com/anirAchibane/anirAchibaneblob/output/github-contribution-grid-snake.svg)
+![snake gif](github-user-contribution.svg)
